@@ -1,0 +1,6 @@
+framework module MidasconSDK {
+  umbrella header "MidasconSDK.h"
+
+  export *
+  module * { export * }
+}
